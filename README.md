@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, Gendhi Ramona
 
-<!--
-**XDX1O1/XDX1O1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just some guy trying to understand basic programing.
+Currently interested on backend web development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔧 Technologies & Tools
+- **Languages**: C, PHP, Python, Java, Javascript, GO,
+- **Frontend**: HTML5, CSS3, Thymeleaf
+- **Backend**: Java, PHP
+- **Databases**: MySQL
+- **Tools**: Git, GitHub, VSCode, Intellij Idea
+
+---
+
+## 📂 Projects
+Check out some of the projects I’ve been working on:
+
+- [**Project 1**](https://github.com/XDX1O1/Menu-Ordering) – Full-stack web app with Java SpringBoot
+- [**Project 2**](https://github.com/XDX1O1/Billiard-Application) – Desktop app with Java and Javafx
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XDX1O1&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
+
+## 📬 Get in Touch
+- **LinkedIn**: [linkedin.com/in/gendhiramona](https://www.linkedin.com/in/gendhi-ramona-245aa5291/)
+- **Email**: [gendhiramona@gmail.com](mailto:email@example.com)
+
+---
+
+Thanks for visiting my profile! Feel free to connect with me or check out my repositories. Let's build something amazing together!

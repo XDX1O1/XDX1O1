@@ -24,7 +24,7 @@ Check out some of the projects I’ve been working on:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XDX1O1&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XDX1O1&show_icons=true&hide_title=true&hide=prs)
 
 ---
 

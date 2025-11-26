@@ -28,10 +28,12 @@ Check out some of the projects I’ve been working on:
 
 ## GitHub Activity
 ![GitHub stars](https://img.shields.io/github/stars/XDX1O1?style=social)
-![GitHub Repositories](https://img.shields.io/github/repos/XDX1O1)
+![GitHub repositories](https://img.shields.io/github/repos/XDX1O1)
 
 ![GitHub stars](https://img.shields.io/github/stars/octocat?style=social)
 ![GitHub repositories](https://img.shields.io/github/repos/octocat)
+
+![GitHub repositories](https://badgen.net/github/repos/octocat)
 
 
 ---

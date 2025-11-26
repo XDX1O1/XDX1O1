@@ -30,7 +30,7 @@ Check out some of the projects I’ve been working on:
 
 ## 📬 Get in Touch
 - **LinkedIn**: [linkedin.com/in/gendhiramona](https://www.linkedin.com/in/gendhi-ramona-245aa5291/)
-- **Email**: [gendhiramona@gmail.com](mailto:email@example.com)
+- **Email**: [gendhiramona@gmail.com](mailto:gendhiramona@gmail.com)
 
 ---
 

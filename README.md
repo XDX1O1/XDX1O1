@@ -30,6 +30,10 @@ Check out some of the projects I’ve been working on:
 ![GitHub stars](https://img.shields.io/github/stars/XDX1O1?style=social)
 ![GitHub Repositories](https://img.shields.io/github/repos/XDX1O1)
 
+![GitHub stars](https://img.shields.io/github/stars/octocat?style=social)
+![GitHub repositories](https://img.shields.io/github/repos/octocat)
+
+
 ---
 
 ## 📬 Get in Touch

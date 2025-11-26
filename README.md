@@ -1,7 +1,7 @@
 # Hi, Gendhi Ramona
 
 Just some guy trying to understand basic programing.
-Currently interested on backend web development
+Currently interested on web development
 
 ---
 

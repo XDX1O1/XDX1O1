@@ -25,17 +25,6 @@ Check out some of the projects I’ve been working on:
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XDX1O1&show_icons=true&hide_title=true&hide=prs)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&hide_title=true&hide=prs)
-
-## GitHub Activity
-![GitHub stars](https://img.shields.io/github/stars/XDX1O1?style=social)
-![GitHub repositories](https://img.shields.io/github/repos/XDX1O1)
-
-![GitHub stars](https://img.shields.io/github/stars/octocat?style=social)
-![GitHub repositories](https://img.shields.io/github/repos/octocat)
-
-![GitHub repositories](https://badgen.net/github/repos/octocat)
-
 
 ---
 

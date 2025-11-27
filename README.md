@@ -25,6 +25,8 @@ Check out some of the projects I’ve been working on:
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XDX1O1&show_icons=true&hide_title=true&hide=prs)
+![XDX1O1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=XDX1O1&theme=vue-dark&hide_border=true)
+![XDX1O1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XDX1O1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 

@@ -18,9 +18,9 @@ Currently interested on web development
 ## 📂 Projects
 Check out some of the projects I’ve been working on:
 
-- [**Project 1**](https://github.com/XDX1O1/Menu-Ordering) – Full-stack web app, Menu Ordering Application with Java SpringBoot + Thymeleaf
-- [**Project 2**](https://github.com/XDX1O1/Billiard-Application) – Desktop app, Billiard Reservation Application with Java and Javafx
-- [**Project 3**](https://github.com/XDX1O1/Task-Management-System) – Full-stack web app, Task Management System with Java Springboot + Angular
+- [**Menu Ordering**](https://github.com/XDX1O1/Menu-Ordering) – Full-stack web app, with Java SpringBoot + Thymeleaf
+- [**Billiard Reservation**](https://github.com/XDX1O1/Billiard-Application) – Desktop app, with Java and Javafx
+- [**Task Management System**](https://github.com/XDX1O1/Task-Management-System) – Full-stack web app, with Java Springboot + Angular
 
 ---
 

@@ -20,6 +20,7 @@ Check out some of the projects I’ve been working on:
 
 - [**Project 1**](https://github.com/XDX1O1/Menu-Ordering) – Full-stack web app with Java SpringBoot
 - [**Project 2**](https://github.com/XDX1O1/Billiard-Application) – Desktop app with Java and Javafx
+- [**Project 3**](https://github.com/XDX1O1/Task-Management-System) – Full-stack web app with Java Springboot + Angular
 
 ---
 

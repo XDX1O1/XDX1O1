@@ -11,7 +11,7 @@ Currently interested on web development
 - **Frontend**: HTML5, CSS3, Thymeleaf
 - **Backend**: Java, PHP
 - **Databases**: MySQL
-- **Tools**: Git, GitHub, VSCode, Intellij Idea
+- **Tools**: Git, GitHub, VSCode, Intellij Idea, Nvim
 
 ---
 

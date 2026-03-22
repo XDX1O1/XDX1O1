@@ -16,9 +16,9 @@ Currently interested on web development
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XDX1O1&show_icons=true&hide_title=true&hide=prs)
-![XDX1O1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XDX1O1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://streak-stats.demolab.com?user=XDX1O1&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdranel&show_icons=true&hide_title=true&hide=prs)
+![XDX1O1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdranel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=xdranel&theme=tokyonight&hide_border=true)
 
 ---
 
